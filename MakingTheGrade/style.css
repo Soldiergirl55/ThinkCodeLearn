@@ -1,7 +1,7 @@
 /* Body styling */
 body {
     background:
-    color: fff;
+    color: #fffafa;
     font-family: Helvetica, Arial;
     font-size: 27px;
     font-weight: 300;
@@ -34,10 +34,10 @@ body {
 
 /* Submit Button, Columns, Questions, and Inputs */
 form input [type=submit] {
-    background:
+    background: #f5f5f5
     border: 0;
     border-radius: 6px;
-    color: #fff;
+    color: #fffafa;
     cursor: pointer;
     display: block;
     font-size: 20px;
