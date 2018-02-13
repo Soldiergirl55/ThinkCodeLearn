@@ -15,6 +15,7 @@ body {
 
 /* Logo styling */
 .logo{
+    text-align: center
     width: 100%;
 }
 
