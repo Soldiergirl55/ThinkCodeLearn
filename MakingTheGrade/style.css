@@ -1,5 +1,6 @@
 /* Body styling */
 body {
+    position: fixed 
     background:
     color: #98fb98;
     font-family: Helvetica, Arial;
