@@ -50,6 +50,7 @@ form input [type=submit] {
 
 .bucket {
     display: inline-block;
+    float: none;
     margin-bottom: 40px;
     width: 100%;
 }
