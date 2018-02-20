@@ -1,5 +1,8 @@
 /* Body styling */
-body
+body{
+    width:  auto
+    margin 0 auto;
+}
 
 
      
@@ -41,3 +44,5 @@ form input [type=submit] {
 
 
 }
+
+
