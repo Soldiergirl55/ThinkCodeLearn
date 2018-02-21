@@ -79,8 +79,8 @@ form input [type=submit] {
     border-radius: 6px;
     color: #f5deb3;
     cursor: pointer;
-    display: block;
-    font-size: 20px;
+    display: center;
+    font-size: 30px;
     font-weight: bold;
     margin: 0 auto 60px;
     padding: 1em 2em;
