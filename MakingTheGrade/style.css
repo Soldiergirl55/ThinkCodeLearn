@@ -45,7 +45,7 @@ margin 0 auto
      
 /* Logo styling */
 .logo{
-    text-align: none
+    text-align: center
     width 100%;
 }
 
@@ -60,7 +60,10 @@ margin 0 auto
 .description  {
     text-align: center;
     margin: 80px auto 40px;
-}
+    max-width 12rem;
+    max-height 12rem;
+}    
+   
 
 
 
