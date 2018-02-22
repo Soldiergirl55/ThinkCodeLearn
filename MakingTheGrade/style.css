@@ -54,14 +54,14 @@ padding 40px 10px
      
 /* Logo styling */
 .logo{
-    text-align: center
+    
     width 100%;
 }
 
 /* Logo */
 .logo img {
-    text-align: center;
-    margin: 80px center 40px;
+    display: block;
+    margin 0 auto;
 }
 
 
