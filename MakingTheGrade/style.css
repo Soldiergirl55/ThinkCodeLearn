@@ -40,10 +40,15 @@ header {
 /* Body styling */
 body {
     
- position: center
+ 
 background-color #f5deb3
-width 750px
-margin 0 auto
+font-family Helvetica, Arial;
+font-size: 27px;
+font-weight 300;
+line-height 1.65em;
+margin 0 auto;
+max-width 960px;
+padding 40px 10px
 }
 
      
