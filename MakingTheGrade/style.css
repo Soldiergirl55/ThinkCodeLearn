@@ -47,7 +47,6 @@ font-size: 27px;
 font-weight: 300;
 line-height: 1.65em;
 margin:  0 auto;
-max-width 576px
 padding 40px 10px
 }
 
@@ -60,18 +59,19 @@ padding 40px 10px
 
 /* Logo */
 .logo img {
-    display: right;
-    margin 0 auto;
-}
+    
+    
+
+
 
 
 
 /*   Game Directions */
 .description  {
     text-align: center;
-    margin: 80px auto 40px;
-    max-width:  12rem;
-    max-height: 20rem;
+    margin 80px auto 40px;
+    max-width  20rem;
+    max-height  20rem;
 }    
    
 
