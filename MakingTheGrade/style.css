@@ -79,17 +79,14 @@ display
 
 
 /* Submit Button, Columns, Questions, and Inputs */
-form input [type=submit] {
-    background: #f5deb3
-    border-radius: 6px;
-    color: #f5deb3;
-    cursor: pointer;
-    display: center;
-    font-size: 30px;
+ [type=submit] {
+    background: 
+    
+
     font-weight: bold;
-    margin: 0 auto ;
-    padding: 0;
-    text-align: center;
+    margin  auto 
+    padding 
+    text-align center
 } 
 
 
