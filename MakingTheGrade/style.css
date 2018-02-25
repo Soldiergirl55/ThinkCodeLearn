@@ -1,11 +1,7 @@
 header {
     margin: 0 auto;
 }
-
-
-    
-
-
+  
 
 .profile-info img {
     max-width: 100%;
@@ -44,9 +40,8 @@ padding: 0px 1em
 
 
 /* Logo styling */
-.logo{
-    
-    width: 100%;
+.logo {
+       width: 100%;
 }
 
 
