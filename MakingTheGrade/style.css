@@ -17,9 +17,8 @@ header {
 .gallery a {
     
     margin: 
-    
-    background: #6b8e23;
-    display: inline block;
+       
+    display inline block;
      
 }
 
@@ -79,7 +78,7 @@ display
 
 
 /* Submit Button, Columns, Questions, and Inputs */
- [type=submit] {
+ {
     background: 
     
 
