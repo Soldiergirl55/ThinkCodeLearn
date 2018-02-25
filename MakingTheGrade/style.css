@@ -3,7 +3,7 @@ header {
 }
 
 .featured {
-    height: 500px;
+    height: px;
     margin-bottom: 0;
 
 }
@@ -15,9 +15,9 @@ header {
 }
 
 .gallery a {
-    width: 48%;
-    margin: 1%;
-    height: 6rem;
+    
+    margin: 
+    
     background: #6b8e23;
     display: inline block;
      
@@ -68,11 +68,11 @@ display
 
 
 /*   Game Directions */
-.description  {
-    text-align: center;
-    margin: 0 auto ;
-    max-width:  12rem;
-    max-height:  20rem;
+ 
+    
+      
+    
+    
     
    
 
