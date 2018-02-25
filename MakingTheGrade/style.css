@@ -70,7 +70,7 @@ margin: 0 auto
 /*   Game Directions */
 .description  {
     text-align: center;
-    margin: 80px auto 40px;
+    margin: 0 auto ;
     max-width:  12rem;
     max-height:  20rem;
     
@@ -81,15 +81,14 @@ margin: 0 auto
 /* Submit Button, Columns, Questions, and Inputs */
 form input [type=submit] {
     background: #f5deb3
-    border 0;
     border-radius: 6px;
     color: #f5deb3;
     cursor: pointer;
     display: center;
     font-size: 30px;
     font-weight: bold;
-    margin: 0 auto 60px;
-    padding: 1em 2em;
+    margin: 0 auto ;
+    padding: 0;
     text-align: center;
 } 
 
